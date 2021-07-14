@@ -22,6 +22,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Porque el hambre tiene vergüenza](https://medium.com/@emamut/el-hambre-no-tiene-verg%C3%BCenza-81b383e11aa5?source=rss-7a385f1164c8------2)
+- [¿Qué debes saber como colombiano antes de migrar al Ecuador?](https://medium.com/@emamut/que-debes-saber-como-colombiano-antes-de-migrar-al-ecuador-414dc2ce9377?source=rss-7a385f1164c8------2)
+- [La importancia del diseño móvil en la web](https://medium.com/@emamut/la-importancia-del-dise%C3%B1o-m%C3%B3vil-en-la-web-1fd8faf1347?source=rss-7a385f1164c8------2)
+- [Refactorizando código](https://medium.com/@emamut/refactorizando-c%C3%B3digo-b68b09de664?source=rss-7a385f1164c8------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
