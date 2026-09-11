@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Faber Andrés Vergara
 ============================================================================================================================================
 
-FrontEnd Developer + Speaker
-----------------------------
+FrontEnd Developer
+-------------------
 
 I have been passionate about programming since I was 17, when I entered college. I started my journey with Pascal and Borland C++. During my work in healthcare, I continued to research and learn ways to automate processes in my work environment. I first used MS Excel and then MS Access. At the age of 26, I had the pleasure of learning PHP, a language that completely captivated me. Finally, at the age of 30, I was able to work in the IT field, alternating between programming and online community management. I have always been interested in finding ways to improve the development industry
 
