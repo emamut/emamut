@@ -2,8 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B+I'm+Faber+Andr%C3%A9s+Vergara;FrontEnd+Developer;Passionate+about+Clean+Code;Building+Modern+Web+Experiences" alt="Typing SVG Banner" />
 
   <p>
-    <a href="https://github.com/emamut"><img src="https://komarev.com/ghpvc/?username=emamut&color=0891b2&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" /></a>
-    <a href="https://www.x.com/e_mamut" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/e_mamut?logo=x&style=flat-square&color=0891b2&labelColor=1c1917" alt="Twitter/X Follow" /></a>
+    <a href="https://github.com/emamut"><img src="https://hits.sh/github.com/emamut.svg?style=flat-square&label=PROFILE+VIEWS&color=0891b2&labelColor=1c1917&extraCount=560" alt="Profile Views" /></a>
+    <a href="https://www.x.com/e_mamut" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/follow-%40e__mamut-0891b2?logo=x&style=flat-square&labelColor=1c1917" alt="Twitter/X Follow" /></a>
   </p>
 </div>
 
@@ -28,10 +28,17 @@ I have been passionate about programming since I was 17, when I entered college.
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="38" height="38" alt="JavaScript" title="JavaScript" /></a>&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="38" height="38" alt="TypeScript" title="TypeScript" /></a>&nbsp;
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="38" height="38" alt="React" title="React" /></a>&nbsp;
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="38" height="38" alt="Next.js" title="Next.js" /></a>&nbsp;
+  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="38" height="38" alt="Next.js" title="Next.js" />
+    </picture>
+  </a>&nbsp;
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="38" height="38" alt="Vue.js" title="Vue.js" /></a>&nbsp;
   <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="38" height="38" alt="Angular" title="Angular" /></a>&nbsp;
   <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg" width="38" height="38" alt="Gatsby" title="Gatsby" /></a>&nbsp;
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="38" height="38" alt="Vite" title="Vite" /></a>&nbsp;
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="38" height="38" alt="Tailwind CSS" title="Tailwind CSS" /></a>&nbsp;
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="38" height="38" alt="Sass" title="Sass" /></a>&nbsp;
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="38" height="38" alt="Bootstrap" title="Bootstrap" /></a>&nbsp;
@@ -51,7 +58,13 @@ I have been passionate about programming since I was 17, when I entered college.
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="38" height="38" alt="VS Code" title="VS Code" /></a>&nbsp;
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="38" height="38" alt="Docker" title="Docker" /></a>&nbsp;
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="38" height="38" alt="Linux" title="Linux" /></a>&nbsp;
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="38" height="38" alt="AWS" title="AWS" /></a>&nbsp;
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="38" height="38" alt="AWS" title="AWS" />
+    </picture>
+  </a>&nbsp;
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="38" height="38" alt="Figma" title="Figma" /></a>
 </p>
 
